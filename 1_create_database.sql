@@ -1,0 +1,1 @@
+Select count (*) FROM  job_postings_fact
